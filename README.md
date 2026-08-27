@@ -16,14 +16,6 @@ This is a study repo, not a polished reference. Notes are written as I learn a t
 └── ci-cd/        # GitHub Actions, pipelines, automation
 ```
 
-Each note is one file, named by date and topic:
-
-```
-docker/2026-08-27-dockerfile-basics.md
-```
-
----
-
 ## Note format
 
 Most notes follow the same shape:
