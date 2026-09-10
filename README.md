@@ -44,3 +44,5 @@ The "errors and fixes" section is the part I care about most. Reading docs is ea
 I completed a DevOps internship (server setup and configuration, Linux application deployment, CI/CD pipeline basics) and I'm continuing to learn independently. Tools I've worked with so far: Linux, Nginx, Docker, Git, GitHub Actions, Python, Bash, AWS EC2, and DigitalOcean.
 
 I'm a beginner in most of these. This repo is the record of closing that gap.
+Daily learning
+by javeriadevops
